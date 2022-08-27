@@ -1,0 +1,30 @@
+.button-color {
+    background-color: #DDF472;
+    color: #5F5F5F;
+    border: 0;
+    border-radius: 45px;
+}
+
+.font-1strow-1stcol {
+    color: #5F5F5F;
+}
+
+.contract {
+    background-color: #474747;
+}
+
+.contract-img {
+    background-color: #DDF472;
+    padding: 10px;
+    border-radius: 16px;
+}
+
+.contract h2 {
+    color: #FFFFFF;
+    font-weight: 500;
+    margin-top: 5px;
+}
+
+.contract p {
+    color: #FAFAFA;
+}

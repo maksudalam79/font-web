@@ -1,0 +1,123 @@
+<div class="col-12">
+
+    <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <div class="row">
+                    <div class="col">
+                        
+
+                        </div>
+                    </div>
+                    <div class="col">
+                        <img src="images/comma.png" alt="" class="img-fluid">
+                        <p>We test and compare the best project management software for
+                            collaborating with a team, hitting deadlines.</p>
+                        <div class="row">
+                            <div class="col"><img src="images/student-5.png" alt="" class="img-fluid"></div>
+                            <h6>Abram Madsen</h6>
+                            <p>UX/UI Designer</p>
+
+                        </div>
+                    </div>
+                    <div class="col">
+                        <img src="images/comma.png" alt="" class="img-fluid">
+                        <p>We test and compare the best project management software for
+                            collaborating with a team, hitting deadlines.</p>
+                        <div class="row">
+                            <div class="col"><img src="images/student-5.png" alt="" class="img-fluid"></div>
+                            <h6>Abram Madsen</h6>
+                            <p>UX/UI Designer</p>
+
+                        </div>
+                    </div>
+
+                </div>
+
+
+            </div>
+            <div class="carousel-item">
+                <div class="row">
+                    <div class="col">
+                        <img src="images/comma.png" alt="" class="img-fluid">
+                        <p>We test and compare the best project management software for
+                            collaborating with a team, hitting deadlines.</p>
+                        <div class="row">
+                            <div class="col"><img src="images/student-5.png" alt="" class="img-fluid"></div>
+                            <h6>Abram Madsen</h6>
+                            <p>UX/UI Designer</p>
+
+                        </div>
+                    </div>
+                    <div class="col">
+                        <img src="images/comma.png" alt="" class="img-fluid">
+                        <p>We test and compare the best project management software for
+                            collaborating with a team, hitting deadlines.</p>
+                        <div class="row">
+                            <div class="col"><img src="images/student-5.png" alt="" class="img-fluid"></div>
+                            <h6>Abram Madsen</h6>
+                            <p>UX/UI Designer</p>
+
+                        </div>
+                    </div>
+                    <div class="col">
+                        <img src="images/comma.png" alt="" class="img-fluid">
+                        <p>We test and compare the best project management software for
+                            collaborating with a team, hitting deadlines.</p>
+                        <div class="row">
+                            <div class="col"><img src="images/student-5.png" alt="" class="img-fluid"></div>
+                            <h6>Abram Madsen</h6>
+                            <p>UX/UI Designer</p>
+
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+            <div class="carousel-item">
+                <div class="row">
+                    <div class="col">
+                        <img src="images/comma.png" alt="" class="img-fluid">
+                        <p>We test and compare the best project management software for
+                            collaborating with a team, hitting deadlines.</p>
+                        <div class="row">
+                            <div class="col"><img src="images/student-5.png" alt="" class="img-fluid"></div>
+                            <h6>Abram Madsen</h6>
+                            <p>UX/UI Designer</p>
+
+                        </div>
+                    </div>
+                    <div class="col">
+                        <img src="images/comma.png" alt="" class="img-fluid">
+                        <p>We test and compare the best project management software for
+                            collaborating with a team, hitting deadlines.</p>
+                        <div class="row">
+                            <div class="col"><img src="images/student-5.png" alt="" class="img-fluid"></div>
+                            <h6>Abram Madsen</h6>
+                            <p>UX/UI Designer</p>
+
+                        </div>
+                    </div>
+                    <div class="col">
+                        <img src="images/comma.png" alt="" class="img-fluid">
+                        <p>We test and compare the best project management software for
+                            collaborating with a team, hitting deadlines.</p>
+                        <div class="row">
+                            <div class="col"><img src="images/student-5.png" alt="" class="img-fluid"></div>
+                            <h6>Abram Madsen</h6>
+                            <p>UX/UI Designer</p>
+
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+
+
+        </div>
+
+    </div>
+
+</div>
