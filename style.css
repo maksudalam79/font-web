@@ -2,7 +2,56 @@
     background-color: #DDF472;
     color: #5F5F5F;
     border: 0;
+
+
+}
+
+.button_in {
+    width: 300px;
+    position: relative;
+    border: 0px;
+    border-radius: 5px;
+}
+
+.email-1 {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    outline: none;
     border-radius: 45px;
+    width: 426px;
+    height: 55px;
+    padding-left: 40px;
+
+
+}
+
+.button_1st {
+    position: absolute;
+    top: 0;
+    border-radius: 45px;
+    right: 5px;
+    padding: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    right: -123px;
+    height: 44px;
+    border: none;
+    cursor: pointer;
+    color: #5F5F5F;
+    background-color: rgb(221, 244, 114);
+    transform: translateX(2px);
+    /* text-align: center; */
+    padding-top: 9px;
+    width: 136px;
+    margin-right: 6px;
+    margin-top: 6px;
+
+
+}
+
+.bold {
+    font-weight: 500;
 }
 
 .font-1strow-1stcol {
@@ -43,4 +92,8 @@
 
 .student {
     display: flex;
+}
+
+.trusted {
+    text-align: center;
 }
